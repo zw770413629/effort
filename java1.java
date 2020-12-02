@@ -3,6 +3,5 @@ class a {
     System.out.println("第一次合并1111");
   	3;
     System.out.println("第一次合并");
-    j;
   }
 }
